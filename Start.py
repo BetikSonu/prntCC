@@ -1,9 +1,8 @@
-import time
-import urllib
-
 from selenium import webdriver
 import random
 import string
+import warnings
+warnings.filterwarnings('ignore')
 
 
 def twostr(stringLength=2):
@@ -16,12 +15,19 @@ def forint(intLength=4):
 		return str(random.randint(1000, 9999))
 
 
+def imgRead():
+	return open("sc.png", "r")
 
-brwsr = webdriver.Chrome()
+
+brwsr = webdriver.PhantomJS("./phantomjs.exe")
 while True:
 	start = twostr()
 	finish = forint()
 	brwsr.get("https://prnt.sc/" + start + finish)
 	link = brwsr.find_element_by_xpath('//*[@id="screenshot-image"]').get_attribute("src")
 	brwsr.get(link)
-	brwsr.save_screenshot(start + finish + ".png")
+	if brwsr.get_screenshot_as_png() == imgRead():
+		pass
+	else:
+		brwsr.save_screenshot("img/" + start + finish + ".png")
+		print("Created File: "+start+finish+".png")

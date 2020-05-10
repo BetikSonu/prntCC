@@ -1,0 +1,3137 @@
+[INFO  - 2020-05-10T21:04:33.563Z] GhostDriver - Main - running on port 52516
+[INFO  - 2020-05-10T21:04:34.707Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-05-10T21:04:34.708Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.customHeaders:  - {}
+[INFO  - 2020-05-10T21:04:34.708Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-05-10T21:04:34.708Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d9d35ea0-9301-11ea-ad36-0328d39da6c6
+[ERROR - 2020-05-10T21:04:36.493Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:36.493Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:37.183Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:37.183Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:37.189Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:37.189Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/kc6774:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7875939&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkc6774&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7875939&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkc6774&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:39.864Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:39.864Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:40.396Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:40.396Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:40.416Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:40.417Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/yc2455:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9280931&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fyc2455&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9280931&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fyc2455&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.281Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.281Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.747Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.747Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.764Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:41.764Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/pr6077:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1979570&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fpr6077&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1979570&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fpr6077&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.339Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.339Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.850Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.851Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.865Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:45.865Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/jx7876:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g257613&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjx7876&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g257613&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjx7876&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:48.599Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:48.600Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:49.061Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:49.061Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:49.070Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:49.070Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/cm1320:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8994884&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fcm1320&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8994884&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fcm1320&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:52.938Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:52.938Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:54.184Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:54.184Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:54.195Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:54.195Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/bu4899:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5397190&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbu4899&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5397190&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbu4899&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.117Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.117Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.594Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.594Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.603Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:56.603Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/bq7840:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3421647&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbq7840&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3421647&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbq7840&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.522Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.522Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.992Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:57.992Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/sz2001:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3612760&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fsz2001&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3612760&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fsz2001&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:58.616Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:58.616Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:59.077Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:59.078Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:59.087Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:04:59.087Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/vx4671:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4469120&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvx4671&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4469120&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvx4671&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.092Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.092Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.573Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.573Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.581Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:00.582Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/vu9541:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9604563&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvu9541&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9604563&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvu9541&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.218Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.219Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.701Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.701Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.711Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:01.711Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/jk7627:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1815583&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjk7627&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1815583&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjk7627&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.306Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.306Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.783Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.783Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.793Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:10.793Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/so5058:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4476349&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fso5058&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4476349&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fso5058&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.396Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.396Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.868Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.868Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.876Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:11.876Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/wc9338:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9362236&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fwc9338&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g9362236&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fwc9338&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:13.584Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:13.585Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:14.754Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:14.754Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:14.764Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:14.764Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/kw9036:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4248029&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkw9036&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4248029&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkw9036&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.176Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.176Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.645Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.645Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.654Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:17.654Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/zz4056:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5184199&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fzz4056&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5184199&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fzz4056&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:18.804Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:18.805Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:19.341Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:19.341Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:19.351Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:19.351Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/dc4438:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1233252&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fdc4438&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1233252&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fdc4438&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.225Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.225Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.724Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.725Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.736Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:21.736Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/cs8087:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2987001&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fcs8087&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2987001&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fcs8087&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:24.232Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:24.232Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:25.889Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:25.889Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:25.898Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:25.899Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/sa9919:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4881502&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fsa9919&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4881502&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fsa9919&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:26.749Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:26.749Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:27.216Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:27.216Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:27.225Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:27.225Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ma7698:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3167415&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fma7698&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3167415&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fma7698&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:28.749Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:28.749Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:29.260Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:29.260Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:29.269Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:29.269Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/bl8131:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6423093&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbl8131&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6423093&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbl8131&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:30.942Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:30.942Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:31.412Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:31.412Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:31.433Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:31.433Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ty5236:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5387997&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fty5236&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5387997&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fty5236&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.123Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.123Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.906Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.906Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.916Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:32.916Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ae4555:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6059417&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fae4555&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6059417&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fae4555&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:34.271Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:34.271Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:36.247Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:36.247Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:36.256Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:36.257Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/os3446:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1508247&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fos3446&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1508247&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fos3446&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:38.524Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:38.524Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:39.021Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:39.021Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:39.031Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:39.031Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/bj4911:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g677619&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbj4911&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g677619&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fbj4911&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.143Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.143Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.991Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:40.991Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ok2192:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3470801&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fok2192&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3470801&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fok2192&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:42.198Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:42.198Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:43.028Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:43.029Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:43.053Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:43.053Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/kl7090:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2432118&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkl7090&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2432118&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkl7090&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:45.933Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:45.933Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:46.403Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:46.404Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:46.414Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:46.415Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/up2163:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2955704&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fup2163&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2955704&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fup2163&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.008Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.008Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.484Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.484Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.495Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:47.495Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/jf5158:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4723566&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjf5158&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4723566&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjf5158&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.054Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.055Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.665Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.665Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.684Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:50.684Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ga5139:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7201223&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fga5139&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7201223&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fga5139&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:51.650Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:51.650Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:52.161Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:52.161Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:52.171Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:52.171Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/fb8659:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2056974&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ffb8659&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2056974&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ffb8659&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.053Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.053Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.799Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.799Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.830Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:55.830Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/vd8556:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1402286&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvd8556&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1402286&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvd8556&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.491Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.492Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.945Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.945Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.954Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:56.954Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/pt1480:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1075099&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fpt1480&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g1075099&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fpt1480&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:58.821Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:58.821Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.294Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.294Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.303Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.303Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/vn1912:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6008881&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvn1912&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6008881&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fvn1912&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.948Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:05:59.948Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:00.430Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:00.430Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:00.439Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:00.439Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/gz3369:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7219894&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fgz3369&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7219894&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fgz3369&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.229Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.230Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.982Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.982Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.996Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:02.996Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/hu2790:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2907841&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fhu2790&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g2907841&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fhu2790&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:04.273Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:04.273Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.348Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.348Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.357Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.357Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/zv8334:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3983013&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fzv8334&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3983013&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fzv8334&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.963Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:05.963Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:06.969Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:06.969Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:06.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:06.980Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/aa7945:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3554759&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Faa7945&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3554759&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Faa7945&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.229Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.229Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.703Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.703Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.714Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:08.714Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/te8590:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8100394&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fte8590&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8100394&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fte8590&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.406Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.406Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.880Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.880Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.894Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:09.894Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/kk7634:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5092485&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkk7634&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5092485&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fkk7634&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:10.630Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:10.631Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:11.155Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:11.156Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:11.166Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:11.166Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ei6088:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3830958&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fei6088&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3830958&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fei6088&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.332Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.332Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.868Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.868Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.878Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:15.878Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/lk6412:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g895447&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Flk6412&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g895447&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Flk6412&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:19.703Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:19.703Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:20.182Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:20.182Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:20.193Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:20.193Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/gn5094:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3173070&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fgn5094&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3173070&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fgn5094&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.063Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.063Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.550Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.550Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.559Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:21.560Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/xn9469:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4830258&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fxn9469&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4830258&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fxn9469&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:22.235Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:22.235Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:23.256Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:23.256Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:23.273Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:23.273Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/jj8362:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3920150&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjj8362&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3920150&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fjj8362&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:24.559Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:24.559Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:25.570Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:25.570Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:25.580Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:25.580Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/hz6079:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5141606&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fhz6079&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5141606&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fhz6079&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:26.873Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:26.873Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:27.345Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:27.345Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:27.363Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:27.364Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/eq8608:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6448205&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Feq8608&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g6448205&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Feq8608&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.415Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.415Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.891Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.891Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.902Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:29.902Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ua5156:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5988100&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fua5156&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5988100&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fua5156&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:30.542Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:30.543Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:31.011Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:31.011Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:31.020Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:31.021Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ev6266:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3274717&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fev6266&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g3274717&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fev6266&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:33.970Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:33.970Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:35.131Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:35.131Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:35.140Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:35.140Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ck9485:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g60103&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fck9485&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g60103&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fck9485&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.101Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.101Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.568Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.568Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.578Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:36.578Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/rh7073:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8959268&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Frh7073&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8959268&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Frh7073&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:38.408Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:38.408Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:38.992Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:38.992Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:39.002Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:39.002Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/un6242:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5259791&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fun6242&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g5259791&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fun6242&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:40.554Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:40.554Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.139Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.139Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.149Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.149Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/tm2856:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4246131&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ftm2856&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4246131&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ftm2856&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.805Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:41.805Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:42.526Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:42.526Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:42.535Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:42.536Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ev7766:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4278347&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fev7766&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g4278347&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fev7766&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:47.415Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:47.416Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:48.295Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:48.295Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:48.304Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:48.305Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/ct8738:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8387678&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fct8738&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8387678&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fct8738&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:50.420Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:50.421Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:51.533Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:51.533Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:51.541Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:51.541Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/mw2721:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7676790&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fmw2721&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7676790&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fmw2721&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:53.911Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:53.912Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:55.101Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:55.101Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:55.112Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:55.112Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/xa6653:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8421362&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fxa6653&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g8421362&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fxa6653&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.323Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.324Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.829Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.829Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.838Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:56.838Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/iq2462:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g24950&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fiq2462&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g24950&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Fiq2462&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.491Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.492Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.946Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$jscomp.findInternal(this,b,a)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.946Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  (anonymous function) (https://st.prntscr.com/2020/05/08/0312/js/script.mix.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+  f (https://cdn.ad4game.com/prebid.js:3)
+  (anonymous function) (https://cdn.ad4game.com/prebid.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.957Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'pbjs.setConfig({             priceGranularity: "dense"         })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-05-10T21:06:58.957Z] Session [d9d35ea0-9301-11ea-ad36-0328d39da6c6] - page.onError - stack:
+  global code (https://prnt.sc/tr8100:1)
+  appendChild (:0)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7346862&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ftr8100&c=UTF-8&z=60918,70076,60916&b=7&x=7:70)
+  (anonymous function) (https://ads.ad4game.com/www/delivery/async-ajs.php?v=1&cb=a4g7346862&h=0&siteurl=https%3A%2F%2Fprnt.sc%2Ftr8100&c=UTF-8&z=60918,70076,60916&b=7&x=7:83)
+
+  phantomjs://platform/console++.js:263 in error
